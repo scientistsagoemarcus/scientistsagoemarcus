@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scientistsagoemarcus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, Networking 
+- 🌱 I’m currently learning Node.js , Flutter
+- 💞️ I’m looking to collaborate on Node.js , flutter , Java
+- 📫 How to reach me scientistsageomarcus@gmail.com
 
 <!---
 scientistsagoemarcus/scientistsagoemarcus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- 🎓 &nbsp; Studying Computer Science at the University of Energy and Natural Resources 
 
 
 ### 🛠 &nbsp;Tech Stack
